@@ -4,7 +4,7 @@
 
 #set(ARDUINO_DEFAULT_BOARD diecimila) # Default Board ID, when not specified
 #set(ARDUINO_DEFAULT_PORT /dev/ttyUSB0) # Default Port, when not specified
-set(ARDUINO_DEFAULT_BOARD avrm8) # Default Board ID, when not specified
+set(ARDUINO_DEFAULT_BOARD avrpi8) # Default Board ID, when not specified
 set(ARDUINO_DEFAULT_PORT /dev/ttyAMA0) # Default Port, when not specified
 
 add_subdirectory(blink_original)
